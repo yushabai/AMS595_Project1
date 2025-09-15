@@ -13,7 +13,3 @@ The project is divided into three tasks:
 1. **Task 1**: For loop with fixed sample size; plots error vs N, runtime vs N, and accuracy vs cost.  
 2. **Task 2**: While loop that stops once the confidence interval half-width meets a tolerance for `k` significant figures (does not rely on the true π).  
 3. **Task 3**: Function with dynamic scatter visualization. Points inside the circle are colored differently, and the final π estimate is displayed both in the command window and on the plot.
-
----
-
-## Repository Contents
