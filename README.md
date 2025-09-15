@@ -5,9 +5,8 @@ This repository contains MATLAB code for estimating π using the **Monte Carlo h
 Random points are generated in the unit square `[0,1] × [0,1]`.  
 The proportion of points that fall inside the quarter circle estimates π/4, giving:
 
-\[
-\hat{\pi} = 4 \cdot \frac{\#\text{points inside}}{\#\text{total points}}
-\]
+π̂ = 4 × (points inside / total points)
+
 
 The project is divided into three tasks:
 
